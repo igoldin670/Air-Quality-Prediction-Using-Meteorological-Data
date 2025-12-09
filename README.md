@@ -1,4 +1,4 @@
-# Middlesex Air Quality (PM2.5) - 2020–2021
+# Middlesex Air Quality (PM2.5) - 2020 and 2021
 
 Daily PM2.5/AQI from EPA AQS for Middlesex County, NJ, paired with daily weather from Open-Meteo. The notebook pulls data, cleans/merges on `date_local`, explores patterns, and fits baseline linear checks plus tree-based regressors (RandomForest, Gradient Boosting, Extra Trees), including an out-of-time test on 2021.
 
