@@ -17,7 +17,7 @@ Daily PM2.5/AQI from EPA AQS for Middlesex County, NJ, paired with daily weather
    - Multivariate models
    - RandomForest/Gradient Boosting/Extra Trees with 2020 train/test split for in-year metrics.
    - RandomForest trained on all 2020, tested on 2021 (out-of-time).
-5. Outputs: R²/MSE, feature importances, and plots.
+5. Outputs: R^2/MSE, feature importances, and plots.
 
 ## Requirements
 - Python 3, pandas, numpy, matplotlib, seaborn, scikit-learn, requests.
