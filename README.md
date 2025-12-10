@@ -29,3 +29,6 @@ Daily PM2.5/AQI from EPA AQS for Middlesex County, NJ, paired with daily weather
 ## Running
 - Open `main.ipynb` in Jupyter/VS Code.
 - Run cells in order; network access is needed for the API fetch steps, or use the provided JSON files to skip fetching.
+
+## Video
+https://drive.google.com/file/d/1wiPq_1ecoi5814Xc-KCNbfhsvyVmm_IR/view?usp=sharing
